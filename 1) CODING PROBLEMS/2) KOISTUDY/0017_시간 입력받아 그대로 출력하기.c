@@ -13,4 +13,4 @@ int main(){
 	printf("%d:%d", *hptr, *mptr);
 	
 	return 0;
-} 
+}  
